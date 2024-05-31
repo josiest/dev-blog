@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Simplifying and extracting modules from Unreal's Lyra project
+title: Lyra, simplified. Extracting modules from Unreal's Lyra project
 tags: Unreal Lyra
 ---
+
+# What is "Lyra, simplified?"
 
 I'm currently working on a small-scoped game, with the intent of adding 
 a project made with Unreal to [my portfolio](https://josiest.github.io). I have
